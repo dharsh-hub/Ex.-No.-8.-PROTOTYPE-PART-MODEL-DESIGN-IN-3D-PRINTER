@@ -46,9 +46,13 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2025-04-17 114053](https://github.com/user-attachments/assets/40b32c1f-68d0-4144-9bfb-1521fc91a9e6)
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-17 114030](https://github.com/user-attachments/assets/9eb96080-a617-42df-90fb-7ecaebdc6f89)
+
+
+### Name: DHARSHINI S
+### Register Number: 2I2224100012
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
